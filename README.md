@@ -1,4 +1,4 @@
-# imageG
+# image
 html/css
 
 
