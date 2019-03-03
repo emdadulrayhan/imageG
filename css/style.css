@@ -1,0 +1,54 @@
+.wrapping{
+	overflow: hidden;
+	background-color: maroon;
+}
+.pic1{
+	width:33%;
+	float:left;
+}
+.mush1{
+	width:100%;
+}
+
+.pic2{
+	width:33%;
+	float:left;
+
+}
+.mush2{
+	width:100%;
+	}
+.pic3{
+	width:20%;
+	float:left;
+}
+.mush3{
+	width:100%;
+}
+.wrapping2{
+	background-color: green;
+	overflow: hidden;
+}
+.pic4{
+	width:33%;
+	float:left;
+}
+.mush4{
+	width:100%;
+}
+.pic5{
+	width:33%;
+	float:left;
+}
+.mush5{
+	width:100%;
+}
+.pic6{
+	width:25%;
+	float:left;
+}
+
+
+.mush6{
+	width:100%;
+}
